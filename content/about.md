@@ -1,5 +1,5 @@
 ---
-title: Projekt
+title: O projektu
 menu:
   main:
     weight: 30

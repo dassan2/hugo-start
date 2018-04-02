@@ -1,11 +1,10 @@
 ---
 title: "Clanekjedna"
-date: 2018-04-02T19:03:33+02:00
+date: 2018-03-30T18:31:13+02:00
 draft: false
 ---
-
 Mince jako investice
 
 <embed src="https://www.penize.cz/investice/240208-mince-iii-jak-do-minci-investovat-a-za-kolik-je-prodate" style="width:100%; height: 1080px;">
 
-ÄŒlÃ¡nek jsem vybral protoÅ¾e je zajÃ­mavÃ½ a struÄnÃ½.
+Èlánek jsem vybral protoe je zajímavı a struènı.
